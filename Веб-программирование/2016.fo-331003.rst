@@ -41,8 +41,8 @@
    * - 3
      - Гошкодеров Анатолий
      -
-     - haha_
-     -
+     - _haha
+     - _hdz1
      -
      -
      -
@@ -199,6 +199,7 @@
 
 .. _uralbash: https://github.com/uralbash
 .. _haha: https://github.com/BlameFlame
+.. _hdz1: https://gist.github.com/BlameFlame/c266a3823a2926dd62f8
 
 .. Домашняя работа #1
 
